@@ -1,0 +1,125 @@
+.titlediv
+{
+    background-size: 100% 140%;
+    background-color: #EDEDED;
+    height: 100vh;
+}
+
+body
+{
+    background-color: #EDEDED;
+}
+
+#dark_bg
+{
+    background-color: #EDEDED;
+}
+
+.red-color
+{
+    color: #DA0037;
+}
+
+.navbar-custom .navbar-text
+{
+    background-color: #DA0037;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(218, 0, 55, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+
+
+
+.btn, .btn-secondary
+{
+    margin-top: 10px;
+    background-color: #DA0037 !important;
+    border-radius: 50px;
+    box-shadow: 0px 0px 0px 0px 0px !important;
+}
+
+.btn-secondary:hover
+{
+    box-shadow: 0px 0px 2px 2px #171717;
+}
+
+#avatar
+{
+    height: 50%;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: -100px;
+}
+
+
+.nav-link:hover
+{
+    transition-delay: 3s;
+    font-weight: bold;
+    color: #DA0037 !important;
+}
+
+.navbar-brand:hover
+{
+    color: #DA0037;
+
+    text-shadow: 1px 2px 100px 100px #DA0037 !important;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+button a
+{
+    text-decoration: none;
+    color: #EDEDED;
+}
+
+button a:hover
+{
+    color: #EDEDED;
+}
+
+#pic
+{
+    height: 10vh;
+    width: 10vh;
+    border-radius: 50% 50% 50% 50%;
+    margine-left: 300px;
+    margin-top: 30%;
+}
+
+nav
+{
+    height: 10%;
+    background-color: #EDEDED;
+}
+
+
+#left-about-div
+{
+    width: 30%;
+    height: 100vh;
+    background-color: #EDEDED;
+    float: left;
+    position: fixed;
+}
+
+#right-about-div
+{
+    float: right;
+    height: 1400vh;
+    min-width: 70%;
+    background-color: #EDEDED;
+}
+
+
+#about-card
+{
+    background-color: #EDED46;
+    box-shadow: #444444;
+}
